@@ -46,7 +46,8 @@ Liste os endpoints da sua API e o que cada um faz. Por exemplo:
 - `PUT /api/contato/{id}`: atualiza o contato com o ID especificado
 - `DELETE /api/contato/{id}`: deleta o contato com o ID especificado
 
-##TABELE CONTATO
+## TABELA CONTATO
+
 ```sql
 
 CREATE TABLE tb_contato (
